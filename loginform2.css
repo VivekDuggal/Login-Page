@@ -1,0 +1,98 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.table{
+    /* align-items: center; */
+    width: 50%;
+    /* height: 80%; */
+    /* border="1"; */
+    background-color: rgba(147, 8, 91, 0.555);
+    margin-left: 25%;
+    margin-right: 55%;
+    margin-top: 3%;
+
+}
+.div{ 
+    
+    margin-top: 5%;
+    width: 70%;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-shadow: 20px;
+    font-size: 40px;
+    text-align: center;
+}
+    .div3{
+        margin-left: 12%;
+        font-size: 20px;
+        margin-top: 2%;
+    }
+   .text{
+    margin-top: 1%;
+    margin-left: 12%;
+    width: 70%;
+    height: 30px;
+   }
+   .div4{
+    margin-left: 12%;
+        font-size: 20px;
+   }
+   .mail{
+    margin-top: 1%;
+    margin-left: 12%;
+    width: 70%;
+    height: 30px;
+   }
+   .div5{
+    margin-left: 12%;
+    font-size: 20px;
+   }
+   .phn{
+    margin-top: 1%;
+    margin-left: 12%;
+    width: 70%;
+    height: 30px;
+   }
+.course{
+    margin-left: 12%;
+    font-size: 20px;
+   }
+.college{
+    margin-left: 12%;
+    font-size: 20px;
+}
+.cou{
+    width: 80%;
+    height: 25px;
+}
+.col{
+    width: 80%;
+    height: 25px;
+}
+.but{ 
+    
+    margin-top: 1%;
+    margin-left: 12%;
+    width: 70%;
+    height: 40px;
+    margin-top: 2%;
+    margin-bottom: 3%;
+    
+}
+.div6{
+    margin-left: 12%;
+    font-size: 20px;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+.gan{
+    margin-left: 12%;
+    font-size: 20px;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+.bob{
+    background-color: bisque;
+}
